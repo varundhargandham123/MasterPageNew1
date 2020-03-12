@@ -30,3 +30,17 @@
     color: white;
     margin-left: 600px;
 }
+.dropdown {
+margin-left:1000px;
+
+}
+.topnav-right {
+    float: right;
+}
+.white{
+    color:white;
+}
+
+.dropdown .dropdown-menu {
+    width: auto;
+}
